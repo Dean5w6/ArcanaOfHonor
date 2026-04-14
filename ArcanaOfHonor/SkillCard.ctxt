@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SkillCard
+comment1.params=filename\ isUltimate\ owner
+comment1.target=SkillCard(java.lang.String,\ boolean,\ Hero)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=world
+comment3.target=void\ useSkill(BattleWorld)
+comment4.params=
+comment4.target=void\ markAsPlayed()
+comment5.params=
+comment5.target=boolean\ isCardPlayed()
+numComments=6

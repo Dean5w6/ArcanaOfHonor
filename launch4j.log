@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Cabarles\ArcanaOfHonorBundle\ArcanaOfHonor.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Cabarles\ArcanaOfHonorBundle\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.021.000
+Java max ver:	
+JRE paths:	ArcanaOfHonorRuntime
+Check launcher:	C:\Users\Cabarles\ArcanaOfHonorBundle\ArcanaOfHonorRuntime\bin\javaw.exe (OK)
+Version string: 1.021.000_008 / 64-Bit (OK)
+Launcher:	C:\Users\Cabarles\ArcanaOfHonorBundle\ArcanaOfHonorRuntime\bin\javaw.exe
+Launcher args:	--add-modules=javafx.controls,javafx.fxml,javafx.graphics -jar "C:\Users\Cabarles\ArcanaOfHonorBundle\ArcanaOfHonor.exe"
+Args length:	120/32768 chars
+Exit code:	0

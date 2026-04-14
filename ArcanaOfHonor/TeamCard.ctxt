@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TeamCard
+comment1.params=teamName\ idleImgFile\ hoverImgFile
+comment1.target=TeamCard(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

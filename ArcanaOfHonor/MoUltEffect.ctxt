@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MoUltEffect
+comment1.params=mirror\ baseX\ baseY\ yOffsets\ ticksPerFrame\ strike\ damageFrameIndex
+comment1.target=MoUltEffect(boolean,\ int,\ int,\ int[],\ int,\ java.lang.Runnable,\ int)
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ renderFrame()
+numComments=5

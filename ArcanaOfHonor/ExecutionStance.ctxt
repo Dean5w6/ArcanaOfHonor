@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ExecutionStance
+comment1.params=target
+comment1.target=ExecutionStance(Hero)
+comment2.params=
+comment2.target=void\ onTurnStart()
+comment3.params=
+comment3.target=void\ safeRemove()
+numComments=4

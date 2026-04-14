@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=BattleResultBanner
+comment1.params=type
+comment1.target=BattleResultBanner(BattleResultBanner.ResultType)
+numComments=2

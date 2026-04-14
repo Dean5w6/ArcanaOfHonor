@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Animation
+comment1.params=filePrefix\ frameCount\ startFrame\ speed\ mirror\ triggerFrame\ triggerAction\ holdFrame\ holdDuration
+comment1.target=Animation(java.lang.String,\ int,\ int,\ int,\ boolean,\ int,\ java.lang.Runnable,\ int,\ int)
+comment2.params=filePrefix\ frameCount\ startFrame\ speed\ triggerFrame\ triggerAction\ holdFrame\ holdDuration
+comment2.target=Animation(java.lang.String,\ int,\ int,\ int,\ int,\ java.lang.Runnable,\ int,\ int)
+comment3.params=filePrefix\ frameCount\ speed
+comment3.target=Animation(java.lang.String,\ int,\ int)
+comment4.params=filePrefix\ frameCount\ speed\ triggerFrame\ triggerAction
+comment4.target=Animation(java.lang.String,\ int,\ int,\ int,\ java.lang.Runnable)
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ mirrorFramesHorizontally()
+numComments=7

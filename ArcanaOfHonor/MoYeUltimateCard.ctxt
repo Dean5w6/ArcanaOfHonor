@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MoYeUltimateCard
+comment1.params=owner
+comment1.target=MoYeUltimateCard(Hero)
+comment2.params=world
+comment2.target=void\ useSkill(BattleWorld)
+numComments=3

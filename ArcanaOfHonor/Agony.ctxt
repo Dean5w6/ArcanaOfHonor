@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Agony
+comment1.params=target\ stacks
+comment1.target=Agony(Hero,\ int)
+comment2.params=actor
+comment2.target=void\ onAction(Hero)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EndTurnButton
+comment1.params=
+comment1.target=EndTurnButton()
+comment2.params=isGanMoStyle
+comment2.target=EndTurnButton(boolean)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

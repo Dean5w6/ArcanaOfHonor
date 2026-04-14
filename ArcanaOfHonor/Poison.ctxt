@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Poison
+comment1.params=target\ initialStacks
+comment1.target=Poison(Hero,\ int)
+comment2.params=
+comment2.target=void\ onTurnEnd()
+numComments=3

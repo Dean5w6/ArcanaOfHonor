@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=APCrystal
+comment1.params=
+comment1.target=APCrystal()
+comment2.params=isFull
+comment2.target=void\ setFull(boolean)
+numComments=3

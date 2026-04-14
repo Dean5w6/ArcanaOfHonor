@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DebugDisplay
+comment1.params=
+comment1.target=DebugDisplay()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=message
+comment3.target=void\ addLogMessage(java.lang.String)
+comment4.params=
+comment4.target=void\ clearLog()
+comment5.params=
+comment5.target=void\ redraw()
+comment6.params=
+comment6.target=void\ applyVisibility()
+numComments=7

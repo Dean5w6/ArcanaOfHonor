@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=DimEffect
+comment1.params=width\ height
+comment1.target=DimEffect(int,\ int)
+numComments=2

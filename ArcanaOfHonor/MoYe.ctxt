@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MoYe
+comment1.params=isEnemy
+comment1.target=MoYe(boolean)
+comment2.params=
+comment2.target=java.lang.String\ getHeroPrefix()
+numComments=3

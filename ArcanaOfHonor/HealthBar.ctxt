@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HealthBar
+comment1.params=isEnemy
+comment1.target=HealthBar(boolean)
+comment2.params=current\ max
+comment2.target=void\ updateBar(int,\ int)
+numComments=3

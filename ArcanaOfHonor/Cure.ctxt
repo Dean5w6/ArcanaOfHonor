@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cure
+comment1.params=target\ stacks
+comment1.target=Cure(Hero,\ int)
+comment2.params=
+comment2.target=void\ triggerUltimateHeal()
+comment3.params=
+comment3.target=void\ onTurnEnd()
+numComments=4

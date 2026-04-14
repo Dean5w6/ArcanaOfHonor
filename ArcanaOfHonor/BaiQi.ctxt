@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BaiQi
+comment1.params=isEnemy
+comment1.target=BaiQi(boolean)
+comment10.params=onComplete
+comment10.target=void\ continueChannelAnimation(java.lang.Runnable)
+comment11.params=
+comment11.target=greenfoot.GreenfootImage\ getChannelingPoseImage()
+comment12.params=
+comment12.target=greenfoot.GreenfootImage\ getRestPoseImage()
+comment2.params=
+comment2.target=java.lang.String\ getHeroPrefix()
+comment3.params=
+comment3.target=boolean\ isChannelReleaseInProgress()
+comment4.params=inProgress
+comment4.target=void\ setChannelReleaseInProgress(boolean)
+comment5.params=s
+comment5.target=void\ setStance(BaiQi.Stance)
+comment6.params=
+comment6.target=BaiQi.Stance\ getStance()
+comment7.params=
+comment7.target=boolean\ isStanceActive()
+comment8.params=
+comment8.target=void\ enterExecutionStance()
+comment9.params=
+comment9.target=void\ leaveExecutionStance()
+numComments=13

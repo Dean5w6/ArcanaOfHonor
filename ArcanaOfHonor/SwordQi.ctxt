@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SwordQi
+comment1.params=target\ stacks
+comment1.target=SwordQi(Hero,\ int)
+comment2.params=
+comment2.target=int\ consumeOne()
+comment2.text=Consume\ exactly\ one\ stack\ and\ return\ the\ bonus\ to\ add\ to\ this\ hit.
+numComments=3
