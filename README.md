@@ -48,7 +48,7 @@ Choose a team of two legendary heroes, build a hand of their unique skills, and 
 
 ## How to Play
 
-1.  Download the latest release from the [Releases](https://github.com/YOUR_USERNAME/ArcanaOfHonor/releases) page.
+1.  Download the latest release from the [Releases](https://github.com/Dean5w6/ArcanaOfHonor/releases) page.
 2.  Unzip the folder.
 3.  Run **`ArcanaOfHonor.exe`**.
 
